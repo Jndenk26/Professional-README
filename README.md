@@ -1,8 +1,9 @@
 
-  # d
+  # Professional README Generator
+
   ![Badge Icon]( https://img.shields.io/badge/License-MIT-informational.svg)
  
-  d
+  create a professional readme generator
   
   ## Table of Contents
   
@@ -15,19 +16,19 @@
   
   ## Installation
   
-  d
+  run npm i on package.json
   
   ## Usage
   
-  d
+  N/A
   
   ## Contributing
   
-  d
+  N/A
   
   ## Tests
   
-  d
+  N/A
   
   ## License
   
@@ -37,7 +38,7 @@
   
   For any questions, please contact me:
   
-  GitHub: [d](https://github.com/d)
+  GitHub: [jndenk26@gmail.com](https://github.com/jndenk26@gmail.com)
   
-  Email: d
+  Email: jndenk26@gmail.com
     
